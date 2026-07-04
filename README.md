@@ -1,5 +1,5 @@
 # Hi, I'm Shoaib 👋
-M.Sc. Data Science student at Christ University, Bengaluru | Aspiring Data Scientist passionate about building impactful, data-driven solutions.
+M.Sc. Data Science graduate from Christ University, Bengaluru | Aspiring Data Scientist passionate about building impactful, data-driven solutions.
 Skilled in Geospatial Analytics, Remote Sensing, Machine Learning, and Predictive Modelling, with experience in earth observation, crime forecasting, and NLP.
 
 ---
@@ -106,7 +106,7 @@ AWS Cloud Foundations | Google Earth Engine
 
 ## 🌟 Leadership & Activities
 - Content Writing Head, Youthopia 2023, DIT University
-- Member, CHRIST University SWO Litera (CUQA)
+- Member, CHRIST University SWO Literature Committee
 - Member, SDG Cell
 - Member, Global Peace Foundation
 
