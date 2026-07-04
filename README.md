@@ -118,10 +118,4 @@ AWS Cloud Foundations | Google Earth Engine
 - [GitHub](https://github.com/Shoaib-1302)
 
 ---
-
-## 📊 GitHub Stats
-![Shoaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shoaib-1302&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib-1302&layout=compact&theme=default)
-
----
 *"Data is the new oil, but insights are the engine."*
